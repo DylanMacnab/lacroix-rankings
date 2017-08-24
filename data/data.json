@@ -1,0 +1,25 @@
+{
+  "flavors": {
+    "lime": {
+      "name": "lime",
+      "upvotes": 0,
+      "downvotes": 0,
+      "thumbnail": "http://dylanmacnab.com/img/thumbnail/lime.svg",
+      "description": "I have something to say about this."
+    },
+    "lemon": {
+      "name": "lemon",
+      "upvotes": 0,
+      "downvotes": 0,
+      "thumbnail": "http://dylanmacnab.com/img/thumbnail/lime.svg",
+      "description": "I have something to say about this."
+    },
+    "coconut": {
+      "name": "coconut",
+      "upvotes": 0,
+      "downvotes": 0,
+      "thumbnail": "http://dylanmacnab.com/img/thumbnail/lime.svg",
+      "description": "I have something to say about this."
+    }
+  }
+}
